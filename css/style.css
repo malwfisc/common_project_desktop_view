@@ -446,7 +446,7 @@ main li:hover {
     }
 
     header{
-        background-image: url("/images/background/turkis.jpg"); 
+        background-image: url("../images/background/turkis.jpg"); 
         /* https://unsplash.com/de/fotos/weisses-tuch-mit-blaugrunem-fleck-b0XSjnITSoA */
         background-size: cover;
         background-color: #6ea7a3;
